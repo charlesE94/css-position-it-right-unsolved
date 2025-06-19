@@ -35,9 +35,9 @@ This assignment should prove that a student is able to:
 
 ## Standard requirements
 
-- [ ] Fork the project to your github account
-- [ ] Clone the project to your computer
-- [ ] Open the project in VSCode with `code <cloned_repo_folder_name>`
+- [x] Fork the project to your github account
+- [x] Clone the project to your computer
+- [x] Open the project in VSCode with `code <cloned_repo_folder_name>`
 - [ ] This Assignment is NOT tested. You can use all the desired creativity!
 - [ ] All the tasks of the "Specific requirements" section MUST be solved
 - [ ] The project's file/folder structure should NOT be edited!
@@ -101,6 +101,6 @@ This assignment should prove that a student is able to:
   - [ ] html: `/pages/legal-page.html`
   - [ ] css: `/css/legal-page.css`
 - [ ] The page heading container should be "pinned" in the top right beneath the header and take the full width of the viewport, regardless of how far the user scrolls down the page content.
-- [ ] The footer should be anchored to the bottom of the viewport, ensuring it remains visible even while scrolling.
-- [ ] The section label should stay fixed in its parent while the user is scrolling through the current section.
-- [ ] The content should not get obscured by any of the containers at the top and bottom of the page.
+- [x] The footer should be anchored to the bottom of the viewport, ensuring it remains visible even while scrolling.
+- [x] The section label should stay fixed in its parent while the user is scrolling through the current section.
+- [x] The content should not get obscured by any of the containers at the top and bottom of the page.
